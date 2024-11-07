@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(81, 92, 92);
+  padding-right: 100px;
+  padding-left: 100px;
+  line-height: 20px;
+}
+
+.main,
+h1,
+h5 {
+  background-color: black;
+  color: aliceblue;
+}
+.dis {
+  color: black;
+  background-color: aliceblue;
+}
+.a2 {
+  background-color: gray;
+}
+
+h3 {
+  font-style: italic;
+}
+.img {
+  padding-left: 0px;
+  width: 200px;
+}
+.a {
+  height: 40px;
+  background-color: aqua;
+  font-size: x-large;
+  line-height: 40px;
+}
+.a1 {
+  /* padding: 20px; */
+  margin-right: 1px;
+  display: inline;
+}

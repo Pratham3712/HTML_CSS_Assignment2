@@ -1,0 +1,69 @@
+body{
+ 
+  background-color: rgb(141, 138, 138);
+}
+.main{
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: aliceblue;
+}
+
+
+.a1 {
+  text-indent: 70px;
+  background-color: black;
+
+  color: aliceblue;
+  text-align: right;
+}
+h1 {
+  font-size: xx-large;
+  text-align: left;
+  color: aliceblue;
+}
+.a2 {
+  background-color: bisque;
+  text-align: left;
+}
+img {
+  width: 150px;
+  border: 10px solid rgb(19, 5, 19);
+}
+p1 {
+  font-size: x-large;
+}
+h2 {
+  background-color: black;
+  color: aliceblue;
+  border: 2px solid rgb(26, 24, 24);
+}
+.a3 {
+ 
+border: 3px solid black;
+}
+.bu{
+background-color: black;
+}
+h2 {
+  background-color: black;
+  color: aliceblue;
+  border: 2px solid rgb(26, 24, 24);
+}
+.a4 {
+border: 3px solid black;
+}
+.bu1{
+background-color: black;
+}
+.a5{
+  border: 3px solid black;
+}
+.gr{
+  width: 300px;
+  border: 1px solid black;
+}
+.a6{
+  background-color: black;
+  color: aliceblue;
+}
+
